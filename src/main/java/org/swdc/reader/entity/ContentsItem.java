@@ -1,6 +1,6 @@
 package org.swdc.reader.entity;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 /**
  * 目录

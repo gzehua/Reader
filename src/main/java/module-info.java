@@ -20,7 +20,7 @@ module reader {
     requires javafx.web;
 
     requires org.slf4j;
-    requires java.persistence;
+    requires jakarta.persistence;
 
     requires org.jsoup;
     requires org.apache.commons.codec;
